@@ -13,7 +13,7 @@ Figure below shows the implementation details
 
 - Create the virtual machine using the provided vagrant file.
 - SSH and access the virtual machine
-- Follow the steps in [installation] to install the required binary files
+- Follow the steps in [Installation](installation/) to install the required binary files
 - Run the rebuilt-network-with-chaincode.sh in the network folder
 - general-mno folder contains the Java project for the participating MNOs
 - mno-app folder contains the Java project for the certificate requested party
